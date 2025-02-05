@@ -6,6 +6,6 @@ public class Lab04_SimpleMath {
         System.out.println(2+2);
         System.out.println(3/2);
         System.out.println(3*2);
-        System.out.println(10/0);//java.lang.ArithmeticException
+        //System.out.println(10/0);//java.lang.ArithmeticException
     }
 }
