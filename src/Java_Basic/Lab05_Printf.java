@@ -1,6 +1,6 @@
 package Java_Basic;
 
-public class Lba05_Printf {
+public class Lab05_Printf {
     public static void main(String[] args) {
         System.out.println("Hi");//add in new line next
 
