@@ -1,6 +1,6 @@
 package Ternary;
 
-public class Nasted_Ternary21 {
+public class Lab05_Nasted_Ternary {
     public static void main(String[] args) {
 
         int num = 15;
