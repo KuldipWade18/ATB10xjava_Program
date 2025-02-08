@@ -1,5 +1,7 @@
 package Ternary;
 
+import java.sql.SQLOutput;
+
 public class Lab08_TernaryO_EvenOdd20
 {
     public static void main(String[] args) {
@@ -8,6 +10,7 @@ public class Lab08_TernaryO_EvenOdd20
         if(num%2==0)
         {
             System.out.println("Even number");
+            System.out.println("Hi");
         }
         else
 
